@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="humming_bird">Humming Bird</string>
+    <string name="yellow_spring_bird">Yellow Spring Bird</string>
+    <string name="bluebird">BlueBird</string>
+    <string name="honey_sucker">Honey Sucker</string>
+    <string name="snow_owl">Snow Owl</string>
+</resources>
